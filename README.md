@@ -1,5 +1,6 @@
-# 나의 프로젝트
-데이콘
+# 나의 깃허브!
+- 항상 주어진 일에 최선을 다하자!
+- 
 ## [*나의 개발 공부 블로그*](https://ai-sonny.tistory.com/)
 <!--
 **DoItSon/DoItSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
